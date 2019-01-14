@@ -11,7 +11,7 @@ Support đủ theo các tài liệu của Virus Total, kết hợp hoàn hảo n
 Cài đặt thông qua composer với dòng lệnh dưới đây
 
 ```shell
-composer install nguyenanhung/dr-virus
+composer require nguyenanhung/dr-virus
 ```
 
 ### Quét File
